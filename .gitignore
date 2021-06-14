@@ -1,0 +1,26 @@
+# Project exclude paths
+/Node/35_Mongo_Relationships/node_modules/
+/Node/Async Errors/node_modules/
+/Node/Async_Errors_Colte/Async_Errors/node_modules/
+/Node/AuthDemo/node_modules/
+/Node/bcryptDemo/node_modules/
+/Node/CookiesDemo/node_modules/
+/Node/DemoApp/node_modules/
+/Node/Express Builtin Error Handler/node_modules/
+/Node/FarmApp/node_modules/
+/Node/firstApp/node_modules/
+/Node/LangAnalyzer/node_modules/
+/Node/LangAnalyzer/TODO/node_modules/
+/Node/LangGuesser/node_modules/
+/Node/Middleware_Intro/node_modules/
+/Node/Mongoose/node_modules/
+/Node/mongoose_express/node_modules/
+/Node/node-group-chat-master/node_modules/
+/Node/node_modules/
+/Node/NPM/Artster/node_modules/
+/Node/NPM/Jokester/node_modules/
+/Node/RESTDemo/node_modules/
+/Node/RouterDemo/node_modules/
+/Node/sessionDemo/node_modules/
+/Node/templating_demo/node_modules/
+/Node/yelpCamp/node_modules/
